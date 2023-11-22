@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import AboutMenuItem from "./AboutMenuItem";
-import AboutSubheading from "./AboutSubHeading";
-import subheadingsData from "./subHeadingsData";
+import AboutSubHeading from "./AboutSubHeading";
+import subheadingsData from "./subheadingsData";
 import personalIcon from "../assets/moebius-triangle.png";
 import educationIcon from "../assets/upgrade.png";
 import careerIcon from "../assets/triple-corn.png";
@@ -59,7 +59,7 @@ export default class AboutMenu extends Component {
             <h3>{activeMenuTitle}</h3>
           </div>
           {subheadings.map((subheading, index) => (
-            <AboutSubheading
+            <AboutSubHeading
               key={index}
               title={subheading.title}
               content={subheading.content}
