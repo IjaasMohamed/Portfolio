@@ -81,7 +81,7 @@ export default function ContactMenu() {
   };
 
   const isValidEmail = (value) => {
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; //to avoid injections
     return emailRegex.test(value);
   };
 
