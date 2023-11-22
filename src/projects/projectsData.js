@@ -4,48 +4,46 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "some platformn",
+    title: "SoMe Platform",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet. consecutur adipising elit, sed do giumsed
-          temopor incident ut labre et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </>
     ),
-    github: "https://this libk shpould be added",
-    Demo: "https://this netify link",
+    github: "https://github.com",
+    demo: "https://netlify.com",
   },
-
   2: {
-    title: "productivity app",
+    title: "Productivity App",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet. consecutur adipising elit, sed do giumsed
-          temopor incident ut labre et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </>
     ),
-    github: "https://this libk shpould be added",
-    Demo: "https://this netify link",
+    github: "https://github.com",
+    demo: "https://netlify.com",
   },
-
   3: {
-    title: "hotel management",
+    title: "Food Delivery App",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet. consecutur adipising elit, sed do giumsed
-          temopor incident ut labre et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </>
     ),
-    github: "https://this libk shpould be added",
-    Demo: "https://this netify link",
+    github: "https://github.com",
+    demo: "https://netlify.com",
   },
 };
 
