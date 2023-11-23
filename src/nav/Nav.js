@@ -1,4 +1,3 @@
-import React, { Component } from "react";
 import { Link, useLocation } from "react-router-dom";
 import astronautHelmet from "../assets/astronaut-helmet.png";
 import deadEye from "../assets/dead-eye.png";
@@ -21,7 +20,7 @@ export default function Nav() {
       case "/contact":
         return "nav-contact";
       default:
-        return "";
+        return "default-nav-class";
     }
   };
 
@@ -35,6 +34,8 @@ export default function Nav() {
         return "PROJECTS";
       case "/contact":
         return "CONTACT";
+      default:
+        return "Default Title";
     }
   };
 
