@@ -2,31 +2,39 @@ const skills = {
   1: [
     {
       title: "HTML",
-      level: 6,
+      level: 5,
     },
     {
       title: "CSS",
       level: 4,
     },
     {
-      title: "SASS",
-      level: 2,
-    },
-    {
       title: "JavaScript",
       level: 5,
     },
     {
-      title: "TypeScript",
-      level: 4,
+      title: "Illustrator/AdobeXD ",
+      level: 6,
     },
     {
-      title: "Tailwind CSS",
-      level: 1,
+      title: "Figma ",
+      level: 6,
+    },
+    {
+      title: "TypeScript",
+      level: 5,
+    },
+    {
+      title: "Bootstrap CSS",
+      level: 5,
     },
     {
       title: "React JS",
-      level: 3,
+      level: 5,
+    },
+    {
+      title: "Angular CLI",
+      level: 6,
     },
     {
       title: "Figma",
@@ -35,8 +43,12 @@ const skills = {
   ],
   2: [
     {
-      title: "PostgreSQL",
+      title: "Java",
       level: 5,
+    },
+    {
+      title: "SpringFramework",
+      level: 4,
     },
     {
       title: "Node.js",
@@ -44,53 +56,61 @@ const skills = {
     },
     {
       title: "MongoDB",
-      level: 2,
-    },
-    {
-      title: "Git",
       level: 4,
     },
     {
-      title: "PHP",
-      level: 1,
+      title: "MySQL",
+      level: 5,
     },
     {
-      title: "SQL",
-      level: 3,
+      title: "Servlets and JSP",
+      level: 4,
+    },
+    {
+      title: "Maven",
+      level: 4,
+    },
+    {
+      title: "JUnit",
+      level: 4,
+    },
+    {
+      title: "RESTful APIs",
+      level: 4,
     },
     {
       title: "Express.js",
-      level: 3,
+      level: 4,
     },
   ],
    3: [
     {
       title: "Angular",
+      level: 6,
+    },
+    {
+      title: "React.js",
       level: 5,
     },
     {
-      title: "Node.js",
-      level: 4,
-    },
-    {
-      title: "Flask",
-      level: 2,
+      title: "Express.js",
+      level: 5,
     },
     {
       title: "Git",
       level: 4,
     },
     {
-      title: "PHP",
-      level: 1,
+      title: "SpringFramework",
+      level: 5,
     },
     {
-      title: "SQL",
-      level: 3,
+      title: "MERN Stack",
+      level: 5,
     },
     {
-      title: "Express.js",
-      level: 3,
+      title: "MEAN Stack",
+      level: 6,
     },
   ],
 };

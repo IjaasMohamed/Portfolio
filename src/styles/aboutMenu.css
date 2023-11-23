@@ -3,8 +3,8 @@
     position: fixed;
     display: flex;
     flex-direction: column;
-    top: 60%;
-    transform: translateY(-60%);
+    top: 50%;
+    transform: translateY(-50%);
     left: 10vw;
   }
   
