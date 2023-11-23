@@ -5,20 +5,16 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Welcome to my portfolio!
+            <b>Welcome to my portfolio!</b>
             <br></br> 
             I'm an undergraduate student specializing
             in Information Technology, passionate about crafting innovative
             software solutions. With hands-on experience in developing projects
             using Angular for the front end and Spring Boot for the backend,
             I've mastered the art of creating responsive and dynamic web
-            applications. My journey involves diving into diverse technologies,
-            from HTML, CSS, JavaScript, and Angular to Java, Spring Boot, and
-            beyond. Each project I undertake showcases not just my technical
-            skills but also my dedication to delivering high-quality, scalable
-            software.
+            applications. 
             <br />
-            <br />
+            
             Explore my portfolio to witness the fusion of creativity and
             technology, aimed at making a meaningful impact in the world of
             software development.
