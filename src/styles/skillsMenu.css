@@ -75,6 +75,7 @@
   display: flex;
   justify-content: right;
   gap: 2rem;
+  margin-top: -0.35rem;
 }
 
 .level-container {
