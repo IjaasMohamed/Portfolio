@@ -17,7 +17,7 @@
   }
   
   .project-item {
-    height: 3.75rem;
+    height: 2.5rem;
     width: 90%;
     display: flex;
     position: relative;
@@ -27,7 +27,7 @@
   }
   
   .project-item.activeProject .title {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   
   .activeProject {
@@ -64,6 +64,12 @@
   }
   .project-item.activeProject:nth-child(10) {
     background: linear-gradient(270deg, #ffffff00, var(--purple) 70%);
+  }
+  .project-item.activeProject:nth-child(11) {
+    background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
+  }
+  .project-item.activeProject:nth-child(12) {
+    background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
   }
   
   .project-sub-container {

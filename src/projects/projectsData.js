@@ -8,6 +8,9 @@ import bloodDonation from "../assets/Projects/project-6-Blood donation.png";
 import hotelManagement from "../assets/Projects/project-8-hotel-management.png";
 import exerciseTracker from "../assets/Projects/project-10-exercise-tracker.png";
 import moviesYTS from "../assets/Projects/project-9-moviesYTS.png";
+import clientManager from "../assets/Projects/project-11-client manager.png";
+import contactManager from "../assets/Projects/project-12-contactManager.png";
+
 const projects = {
   1: {
     title: "Movie Web Application",
@@ -179,6 +182,33 @@ const projects = {
     github: "https://github.com/IjaasMohamed/Exercise-Tracker",
     //   demo: "https://netlify.com",
   },
+
+  
+  11: {
+    title: "Client-Manager",
+    image: clientManager,
+    description: (
+      <>
+        <p>
+        This project utilizes ASP.NET and SQL Server to create a simple CRUD application for managing client information. It enables easy handling of client data through basic Create, Read, Update, and Delete functionalities.</p>
+      </>
+    ),
+    github: "https://github.com/IjaasMohamed/Client-Manager.git",
+    //   demo: "https://netlify.com",
+  },
+  12: {
+    title: "Contact Manager",
+    image: contactManager,
+    description: (
+      <>
+        <p>
+        This Contact Manager app is built using Flutter and offers a simple yet efficient way to manage contacts. The app allows users to add, edit, and delete contacts, search for specific contacts by name, and view contact details. The app uses SQLite to store contact information</p>
+      </>
+    ),
+    github: "https://github.com/IjaasMohamed/Contact-Manager-SQFlite.git",
+    //   demo: "https://netlify.com",
+  },
+
 };
 
 export default projects;
