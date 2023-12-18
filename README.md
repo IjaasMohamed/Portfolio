@@ -18,11 +18,11 @@ Hello, world! 🌍 You've just landed in my creative universe, where pixels meet
 
 ## 🚀 Explore Further!
 
-For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my [Portfolio Page]( https://demo.d2bnr2oswv0k7y.amplifyapp.com/projects ). Prepare for a journey into the heart of code and innovation!
+For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my [Portfolio Page]( https://demo.d2bnr2oswv0k7y.amplifyapp.com/projects/ ). Prepare for a journey into the heart of code and innovation!
 
 ## 📬 Get in Touch
 
-Have questions, ideas, or just want to say hello? I'd love to hear from you! Visit my [Contact Page](https://demo.d2bnr2oswv0k7y.amplifyapp.com/contact) to send a message my way.
+Have questions, ideas, or just want to say hello? I'd love to hear from you! Visit my [Contact Page](https://demo.d2bnr2oswv0k7y.amplifyapp.com/contact/) to send a message my way.
 
 ## 🌐 Explore My Hosted Portfolio
 
