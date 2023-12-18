@@ -22,7 +22,7 @@ For a deeper dive into these projects and to uncover more treasures in my portfo
 
 ## 📬 Get in Touch
 
-Have questions, ideas, or just want to say hello? I'd love to hear from you! [Click here](https://wa.me/94755550780) to send a WhatsApp message to +94755550780.
+Have questions, ideas, or just want to say hello? I'd love to hear from you! [Click here](https://wa.me/94755550780) to send a WhatsApp message.
 
 ## 🌐 Explore My Hosted Portfolio
 
