@@ -18,7 +18,7 @@ Hello, world! 🌍 You've just landed in my creative universe, where pixels meet
 
 ## 🚀 Explore Further!
 
-For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my [Portfolio Projects](https://demo.d2bnr2oswv0k7y.amplifyapp.com/projects) Prepare for a journey into the heart of code and innovation!
+For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my [Portfolio Projects](https://demo.d2bnr2oswv0k7y.amplifyapp.com/) Prepare for a journey into the heart of code and innovation!
 
 ## 📬 Get in Touch
 
