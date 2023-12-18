@@ -22,7 +22,7 @@ For a deeper dive into these projects and to uncover more treasures in my portfo
 
 ## 📬 Get in Touch
 
-Have questions, ideas, or just want to say hello? I'd love to hear from you! Visit my [Contact Page]( https://demo.d2bnr2oswv0k7y.amplifyapp.com/contact ) to send a message my way.
+Have questions, ideas, or just want to say hello? I'd love to hear from you! Visit my [Contact Page](https://demo.d2bnr2oswv0k7y.amplifyapp.com/contact) to send a message my way.
 
 ## 🌐 Explore My Hosted Portfolio
 
