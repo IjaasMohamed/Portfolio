@@ -5,31 +5,31 @@ Hello, world! 🌍 You've just landed in my creative universe, where pixels meet
 ## 🎬 Projects Showcase
 
 ### 🎥 Movie Web Application
-![Movie Web Application](../assets/Projects/project-9-moviesYTS.png)
+!Movie Web Application
 - **Description:** A dynamic Angular app that turns an existing movie database API into a cinema in your hands. 🍿
-- **GitHub:** [Movie Web Application - GitHub](https://github.com/IjaasMohamed/movies-app)
+- **GitHub:** Movie Web Application - GitHub
 - **Tech Stack:** Angular, TypeScript, API Integration
 
 ### 👥 Employee Management System
-![Employee Management System](../assets/Projects/project-7-Employee management.png)
+!Employee Management System
 - **Description:** An Angular 15 project that uses Angular Material UI components to create a seamless experience for managing employee data.
-- **GitHub:** [Employee Management System - GitHub](https://github.com/IjaasMohamed/Employee-Management-Application)
+- **GitHub:** Employee Management System - GitHub
 - **Tech Stack:** Angular, Angular Material, TypeScript
 
 ## 🚀 Explore Further!
 
-For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my [Portfolio Projects] - https://demo.d2bnr2oswv0k7y.amplifyapp.com/projects . Prepare for a journey into the heart of code and innovation!
+For a deeper dive into these projects and to uncover more treasures in my portfolio, set your coordinates to my Portfolio Projects. Prepare for a journey into the heart of code and innovation!
 
 ## 📬 Get in Touch
 
-Have questions, ideas, or just want to say hello? I'd love to hear from you! Visit my [Contact Page](https://demo.d2bnr2oswv0k7y.amplifyapp.com/contact/) to send a message my way.
+Have questions, ideas, or just want to say hello? I'd love to hear from you! Click here to send a WhatsApp message to +94755550780.
 
 ## 🌐 Explore My Hosted Portfolio
 
-My portfolio is proudly hosted on [Amplify](https://demo.d2bnr2oswv0k7y.amplifyapp.com/). Come on in, explore, and let's get inspired together!
+My portfolio is proudly hosted on Amplify. Come on in, explore, and let's get inspired together!
 
 ## 🤝 Let's Connect!
 
-I'm always excited to share my journey and discuss these projects further! Connect with me on [LinkedIn](https://www.linkedin.com/in/ijaas-f-948804112/) to chat, collaborate, or share your thoughts!
+I'm always excited to share my journey and discuss these projects further! Connect with me on LinkedIn to chat, collaborate, or share your thoughts!
 
 Feel free to explore each project, fork the repository, or get in touch. Together, we can push the boundaries of technology and create something amazing! 🌟
